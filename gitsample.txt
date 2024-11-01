@@ -1,0 +1,17 @@
+1) I wrote clean code and performed comprehensive end-to-end testing locally for the applications I worked on resulting in no reported bugs for the stories I handled.
+2) I reviewed my peers code and identified missing edge cases.
+3) I implemented BDD from scratch for a 13-point story and fixed existing issues.
+4) I helped my other  team members in setting up the applications in their local environments.
+
+
+1) I will focus on setting up AWS infrastructure for the applications we create, rather than repeatedly working on writing core logic.
+2) 
+
+I will analyze the design of epics and provide suggestions during epic refinement sessions.
+
+
+Necessity is the mother of invention
+
+
+power
+
